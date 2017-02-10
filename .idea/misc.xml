@@ -3,6 +3,10 @@
   <component name="Archetypes.Configuration">
     <option name="workingDirectory" value="" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="appengine-java" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
